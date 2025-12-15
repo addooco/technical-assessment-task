@@ -164,8 +164,7 @@ Once you've completed the task:
 
 1. Ensure your repository is **private**
 2. Add the following GitHub users as collaborators to your private repository:
-    - `[GITHUB_USERNAME_1]` (to be filled in when sending to candidates)
-    - `[GITHUB_USERNAME_2]` (to be filled in when sending to candidates)
+    - `adamwhp`
 3. Send us an email confirming you've completed the task and granted access
 
 **To add collaborators:**
@@ -197,7 +196,7 @@ This is a collaborative discussion, not an interrogation. We want to understand 
 
 ## Questions?
 
-If anything is unclear or you have questions about the requirements, please don't hesitate to reach out to us at `[EMAIL_ADDRESS]` (to be filled in when sending to candidates).
+If anything is unclear, or you have questions about the requirements, please don't hesitate to reach out to us at the email address provided in your application.
 
 We're here to help and want you to have the best opportunity to demonstrate your skills.
 
