@@ -14,7 +14,27 @@ Thank you for taking the time to complete this technical task. We understand you
 
 We want to see how you actually code, not how you code under artificial constraints. The only requirements are the **programming language/framework** and the **functional requirements** outlined below.
 
----
+## Table of Contents
+
+- [The Task](#the-task)
+  - [Core Requirements](#core-requirements)
+  - [Bonus Features](#bonus-features-optional)
+- [Technology Requirements](#technology-requirements)
+  - [For Backend Engineers (Ruby on Rails)](#for-backend-engineers-ruby-on-rails)
+  - [For Frontend Engineers (React)](#for-frontend-engineers-react)
+- [Deliverables](#deliverables)
+  - [README Documentation](#readme-documentation)
+  - [Working Application](#working-application)
+  - [Tests](#tests)
+  - [Code Quality](#code-quality)
+- [Submission & Timeline](#submission--timeline)
+  - [Repository Setup](#repository-setup)
+  - [Granting Access](#granting-access)
+  - [Timeline](#timeline)
+- [Next Steps](#next-steps)
+  - [Technical Interview](#technical-interview)
+  - [Questions](#questions)
+- [Fair Assessment Commitment](#fair-assessment-commitment)
 
 ## The Task
 
@@ -53,23 +73,21 @@ If you have time and want to demonstrate additional skills, consider implementin
 
 **Note:** These are truly optional. We'd rather see excellent execution of the core requirements than a rushed implementation of everything.
 
----
-
 ## Technology Requirements
 
 ### For Backend Engineers (Ruby on Rails)
 
-**Required:**
+#### Required Technologies
 - Ruby on Rails framework
 - RESTful API design
 - Any database you're comfortable with (PostgreSQL, MySQL, SQLite)
 
-**Frontend:**
-- You can build the frontend in any way you're comfortable with
-- This can be as simple as Rails views with HTML/CSS, a basic React app, or even just a Postman collection demonstrating your API
-- **Focus on the backend** - we're primarily evaluating your API design, business logic, and data modelling
+#### Frontend Flexibility
+You can build the frontend in any way you're comfortable with. This can be as simple as Rails views with HTML/CSS, a basic React app, or even just a Postman collection demonstrating your API.
 
-**What we'll be evaluating:**
+**Focus on the backend** - we're primarily evaluating your API design, business logic, and data modelling.
+
+#### What We'll Be Evaluating
 - API design and RESTful principles
 - Data modelling and database schema
 - Validation and error handling
@@ -79,16 +97,16 @@ If you have time and want to demonstrate additional skills, consider implementin
 
 ### For Frontend Engineers (React)
 
-**Required:**
+#### Required Technologies
 - React (either React for web or React Native - your choice)
 - Modern JavaScript/TypeScript
 
-**Backend:**
-- You should **mock the API calls** and return data you'd expect from real endpoints
-- Create mock data/fixtures that demonstrate various states
-- **Focus on the frontend** - we're primarily evaluating your component architecture, state management, and user experience
+#### Backend Approach
+You should **mock the API calls** and return data you'd expect from real endpoints. Create mock data/fixtures that demonstrate various states.
 
-**What we'll be evaluating:**
+**Focus on the frontend** - we're primarily evaluating your component architecture, state management, and user experience.
+
+#### What We'll Be Evaluating
 - Component architecture and organisation
 - State management approach
 - User experience and interface design
@@ -96,25 +114,33 @@ If you have time and want to demonstrate additional skills, consider implementin
 - Code quality and readability
 - Testing approach
 
----
+## Deliverables
 
-## What to Include
-
-### 1. README.md
+### 1. README Documentation
 
 Your README must include:
 
-- **Overview** - Brief description of your application and approach
-- **Setup instructions** - Step-by-step guide to get the project running locally
-    - **Note:** We'll be running your application on macOS, so please ensure your instructions work for macOS or provide Docker setup for portability
-    - Prerequisites (Ruby version, Node version, database, etc.)
-    - Installation steps
-    - Database setup (backend) or any required configuration
-    - How to run the application
-    - How to run tests
-- **Design decisions** - Key technical decisions you made and why
-- **Trade-offs** - What you would do differently with more time, budget, or access to production tools (e.g., paid services, monitoring tools, etc.)
-- **Technology choices** - Brief explanation of major libraries/tools used
+**Overview**
+- Brief description of your application and approach
+
+**Setup Instructions**
+- Step-by-step guide to get the project running locally
+- Prerequisites (Ruby version, Node version, database, etc.)
+- Installation steps
+- Database setup (backend) or any required configuration
+- How to run the application
+- How to run tests
+
+> **Note:** We'll be running your application on macOS, so please ensure your instructions work for macOS or provide Docker setup for portability.
+
+**Design Decisions**
+- Key technical decisions you made and why
+
+**Trade-offs**
+- What you would do differently with more time, budget, or access to production tools (e.g., paid services, monitoring tools, etc.)
+
+**Technology Choices**
+- Brief explanation of major libraries/tools used
 
 ### 2. Working Application
 
@@ -135,11 +161,9 @@ Your README must include:
 - Include comments where they add value (but don't over-comment)
 - Commit regularly with clear, descriptive commit messages
 
----
+## Submission & Timeline
 
-## Submission Instructions
-
-### 1. Repository Setup
+### Repository Setup
 
 You have two options:
 
@@ -153,12 +177,14 @@ You have two options:
 - Copy this README if you'd like to keep the instructions handy
 - Complete the task in your new repository
 
-**Why private?** We ask that your repository remains private to:
+#### Why Private?
+
+We ask that your repository remains private to:
 - Protect your work from being copied by other candidates
 - Keep your application to our company confidential
 - Ensure fair assessment - we want to see your original work, not something influenced by seeing others' solutions
 
-### 2. Give Us Access
+### Granting Access
 
 Once you've completed the task:
 
@@ -167,20 +193,19 @@ Once you've completed the task:
     - `adamwhp`
 3. Send us an email confirming you've completed the task and granted access
 
-**To add collaborators:**
-- Go to your repository settings
-- Navigate to "Collaborators and teams"
-- Click "Add people"
-- Add the usernames provided above
+#### How to Add Collaborators
+1. Go to your repository settings
+2. Navigate to "Collaborators and teams"
+3. Click "Add people"
+4. Add the usernames provided above
 
-### 3. Timeline
+### Timeline
 
-- You have **5 days** from receiving this task to complete and submit it
-- Please let us know if you need more time due to extenuating circumstances
+You have **5 days** from receiving this task to complete and submit it. Please let us know if you need more time due to extenuating circumstances.
 
----
+## Next Steps
 
-## Technical Interview
+### Technical Interview
 
 After you submit your task, we'll schedule a technical discussion (approximately 60 minutes) where you'll:
 
@@ -192,15 +217,11 @@ After you submit your task, we'll schedule a technical discussion (approximately
 
 This is a collaborative discussion, not an interrogation. We want to understand your thought process and how you approach problems.
 
----
-
-## Questions?
+### Questions
 
 If anything is unclear, or you have questions about the requirements, please don't hesitate to reach out to us at the email address provided in your application.
 
 We're here to help and want you to have the best opportunity to demonstrate your skills.
-
----
 
 ## Fair Assessment Commitment
 
