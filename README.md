@@ -190,7 +190,7 @@ Once you've completed the task:
 
 1. Ensure your repository is **private**
 2. Add the following GitHub users as collaborators to your private repository:
-    - `adamwhp`
+    - `nicola-hall`
 3. Send us an email confirming you've completed the task and granted access
 
 #### How to Add Collaborators
